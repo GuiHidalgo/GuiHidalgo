@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Olá sou Guilherme
+
+- 💻 Estudando Ciência da Computação
 
 <div align="center">
   <a href="https://github.com/GuiHidalgo">
