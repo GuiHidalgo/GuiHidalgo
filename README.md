@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Olá sou Guilherme
 
-- 💻 Estudando Ciência da Computação
+- 💻 Bacharel em Ciência da Computação
 
 <div align="center">
   <a href="https://github.com/GuiHidalgo">
